@@ -1,0 +1,13 @@
+canvas {
+    display: block;
+    margin: 0 auto;
+    background-color: black;
+  }    
+  button {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    font-size: 18px;
+    padding: 10px;
+    margin: 10px;
+  }
